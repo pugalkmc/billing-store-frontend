@@ -1,0 +1,17 @@
+.product-list {
+    text-align: center;
+  }
+  
+  .centered-table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ccc; /* Add a border to the table */
+  }
+  
+  .centered-table th,
+  .centered-table td {
+    padding: 8px;
+    text-align: center; /* Center-align the table cells */
+    border: 1px solid #ccc; /* Add a border to table cells */
+  }
+  
