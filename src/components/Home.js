@@ -11,7 +11,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">New Sale</h5>
               <p className="card-text">Go to billing page</p>
-              <Link to="/sale" className="btn btn-primary">
+              <Link to="/sale/add" className="btn btn-primary">
                 New Billing
               </Link>
             </div>
@@ -23,7 +23,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">New Product</h5>
               <p className="card-text">Add new product for the stock</p>
-              <Link to="/sale" className="btn btn-primary">
+              <Link to="/product/add" className="btn btn-primary">
                 Add stock
               </Link>
             </div>
