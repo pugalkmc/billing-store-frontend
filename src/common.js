@@ -1,5 +1,5 @@
 const datas = {
-    domain:"https://saravana-agro-service.onrender.com"
+    domain:"https://store-server-jeza.codecapsules.co.za"
 }
 
 export default datas;
