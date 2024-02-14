@@ -17,3 +17,6 @@ This billing site is a comprehensive solution designed for managing sales, produ
 - **Frontend**: React.js
 - **Backend**: Express.js
 - **Database**: MongoDB
+
+Checkout server code repo:
+- github.com/pugalkmc/billing-store-server
